@@ -42,6 +42,8 @@ The app itself is in German. For **English answers**: settings → **“Antworts
 
 ⌃ is the **Control key** at the bottom left, not ⌘. ⌘C and ⌘V keep working as usual.
 
+**Uninstall completely:** settings → at the very bottom “Entfernen …” → confirm. Removes the app, settings, API key, knowledge base, auto-start and permissions. Manual steps in the PDF “Installation”, section 5.
+
 **Your own documents:** connect a folder in the settings under “Wissensbasis” (knowledge base). It is read locally at no cost; each question then costs about 1 to 7 cents. Details in the PDF “How it works”.
 
 <sub>Optional for Chrome, Edge, Brave, Arc: [Eckblick-Browser-Extension.zip](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Browser-Extension.zip) (installation in the PDF, section 4). All versions: [Releases](https://github.com/maurocasellini/eckblick-download/releases).</sub>
