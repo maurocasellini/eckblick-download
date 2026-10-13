@@ -1,44 +1,46 @@
 # Eckblick
 
-Claude direkt am Arbeitsplatz: Text markieren, **⌃C** drücken, die kurze Antwort mit **⌃V** genau dort einfügen, wo der Cursor steht. In jedem Programm auf dem Mac. Auf Wunsch gestützt auf deine eigenen Unterlagen.
+Claude right where you work: select text, press **⌃C**, and paste the short answer with **⌃V** exactly where your cursor is. In every program on your Mac. Optionally based on your own documents.
 
-## Herunterladen
+## Download
 
 | | |
 |---|---|
-| **Mac mit Apple-Chip** (M1, M2, M3, M4 …) | [Eckblick-Mac-AppleSilicon.zip](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Mac-AppleSilicon.zip) |
-| **Mac mit Intel-Chip** (ältere Macs) | [Eckblick-Mac-Intel.zip](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Mac-Intel.zip) |
-| 📄 **Installation und Bedienung** | [Eckblick-Installation.pdf](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Installation.pdf) |
-| 📄 **So funktioniert es, Kosten** | [Eckblick-So-funktioniert-es.pdf](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-So-funktioniert-es.pdf) |
+| **Mac with Apple chip** (M1, M2, M3, M4 …) | [Eckblick-Mac-AppleSilicon.zip](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Mac-AppleSilicon.zip) |
+| **Mac with Intel chip** (older Macs) | [Eckblick-Mac-Intel.zip](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Mac-Intel.zip) |
+| 📄 **Installation and use** | [Eckblick-Installation.pdf](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Installation.pdf) |
+| 📄 **How it works, costs** | [Eckblick-How-it-works.pdf](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-How-it-works.pdf) |
 
-Welcher Mac? Apfel-Menü  → „Über diesen Mac“ → Zeile „Chip“ (Apple M… = Apple-Chip, Intel = Intel).
+Which Mac? Apple menu  → “About This Mac” → line “Chip” (Apple M… = Apple chip, Intel = Intel).
 
-## Vorher: API-Key holen (einmalig)
+## First: get an API key (once)
 
-1. [platform.claude.com/settings/keys](https://platform.claude.com/settings/keys?ws=default) öffnen und anmelden.
-2. Unter „Billing“ ein kleines Guthaben aufladen (z. B. 5 bis 10 €).
-3. „Create Key“ → Key kopieren (beginnt mit `sk-ant-`, wird nur einmal angezeigt).
+1. Open [platform.claude.com/settings/keys](https://platform.claude.com/settings/keys?ws=default) and sign in.
+2. Add a small credit under “Billing” (e.g. 5 to 10 €).
+3. “Create Key” → copy the key (starts with `sk-ant-`, shown only once).
 
-## Installieren (ca. 3 Minuten, ohne Terminal)
+## Install (about 3 minutes, no Terminal)
 
-1. ZIP herunterladen, doppelklicken, dann **Eckblick** doppelklicken. macOS meldet „nicht geöffnet“ → **Fertig** (nicht Papierkorb).
-2. Apfel-Menü → **Systemeinstellungen** → **Datenschutz & Sicherheit** → ganz nach unten → **Trotzdem öffnen** → Passwort.
-3. „In ‚Programme‘ verschieben?“ → **Ja**.
-4. In den Einstellungen den **API-Key** eintragen → **Speichern & testen**.
-5. **Freigabe öffnen** → bei **Bedienungshilfen** und **Eingabeüberwachung** Eckblick einschalten.
+1. Download the ZIP, double-click it, then double-click **Eckblick**. macOS says it can’t be opened → **Done** (not Move to Trash).
+2. Apple menu → **System Settings** → **Privacy & Security** → scroll all the way down → **Open Anyway** → password.
+3. “Move to Applications?” → **Yes**.
+4. In the settings, enter your **API key** → **“Speichern & testen”** (save & test).
+5. **“Freigabe öffnen”** (open permissions) → turn on Eckblick under **Accessibility** and **Input Monitoring**.
 
-Fertig. Eckblick sitzt oben rechts in der Menüleiste und startet künftig mit dem Mac.
+Done. Eckblick sits at the top right of the menu bar and starts with your Mac from now on.
 
-## Bedienung
+The app itself is in German. For **English answers**: settings → **“Antwortsprache”** → **“Englisch”** (or “Wie die Frage” = same language as the question).
 
-- Text markieren + **⌃C** → Frage an Claude
-- **⌃V** → Antwort am Cursor einfügen
-- **⌃** halten + Maus in die Ecke unten links → Panel mit Antwort
-- **⌃⇧H** → Darstellung umschalten (unauffällig / gut sichtbar)
-- **Beenden:** Einstellungen → ganz unten „Beenden“ (oder Menüleisten-Symbol → „Eckblick beenden“)
+## How to use
 
-⌃ ist die **Control-Taste** unten links, nicht ⌘. ⌘C und ⌘V bleiben normal.
+- Select text + **⌃C** → question to Claude
+- **⌃V** → paste the answer at the cursor
+- Hold **⌃** + move the mouse to the bottom left corner → panel with the answer
+- **⌃⇧H** → switch display mode (discreet / clearly visible)
+- **Quit:** settings → at the very bottom “Beenden” (or menu bar icon → “Eckblick beenden”)
 
-**Eigene Unterlagen:** in den Einstellungen unter „Wissensbasis“ einen Ordner verbinden. Wird lokal eingelesen und kostet dabei nichts; pro Frage ca. 1 bis 7 Cent. Details im PDF „So funktioniert es“.
+⌃ is the **Control key** at the bottom left, not ⌘. ⌘C and ⌘V keep working as usual.
 
-<sub>Optional für Chrome, Edge, Brave, Arc: [Eckblick-Browser-Erweiterung.zip](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Browser-Erweiterung.zip) (Installation im PDF, Abschnitt 4). Alle Versionen: [Releases](https://github.com/maurocasellini/eckblick-download/releases).</sub>
+**Your own documents:** connect a folder in the settings under “Wissensbasis” (knowledge base). It is read locally at no cost; each question then costs about 1 to 7 cents. Details in the PDF “How it works”.
+
+<sub>Optional for Chrome, Edge, Brave, Arc: [Eckblick-Browser-Extension.zip](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Browser-Extension.zip) (installation in the PDF, section 4). All versions: [Releases](https://github.com/maurocasellini/eckblick-download/releases).</sub>
