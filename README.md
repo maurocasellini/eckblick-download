@@ -35,7 +35,8 @@ The app itself is in German. For **English answers**: settings → **“Antworts
 
 - Select text + **⌃C** → question to Claude
 - **⌃V** → paste the answer at the cursor
-- Hold **⌃** + move the mouse to the bottom left corner → panel with the answer
+- **⌃X** → open or close the panel (answer + field for your own question)
+- Hold **⌃** + move the mouse to the bottom left corner → panel too
 - **⌃⇧H** → switch display mode (discreet / clearly visible)
 - **Quit:** settings → at the very bottom “Beenden” (or menu bar icon → “Eckblick beenden”)
 
