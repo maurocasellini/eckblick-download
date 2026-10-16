@@ -8,6 +8,7 @@ Claude right where you work: select text, press **⌃C**, and paste the short an
 |---|---|
 | **Mac with Apple chip** (M1, M2, M3, M4 …) | [Eckblick-Mac-AppleSilicon.zip](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Mac-AppleSilicon.zip) |
 | **Mac with Intel chip** (older Macs) | [Eckblick-Mac-Intel.zip](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Mac-Intel.zip) |
+| **Windows 10/11** (beta) | [Eckblick-Windows.zip](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Windows.zip) |
 | 📄 **Installation and use** | [Eckblick-Installation.pdf](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-Installation.pdf) |
 | 📄 **How it works, costs** | [Eckblick-How-it-works.pdf](https://github.com/maurocasellini/eckblick-download/releases/latest/download/Eckblick-How-it-works.pdf) |
 
@@ -36,6 +37,7 @@ The app itself is in German. For **English answers**: settings → **“Antworts
 - Select text + **⌃C** → question to Claude
 - **⌃V** → paste the answer at the cursor
 - **⌃X** → open or close the panel (answer + field for your own question)
+- Select **your own text** + **⌃R** → rewritten (spelling, grammar, clearer); **⌃V** replaces it
 - Hold **⌃** + move the mouse to the bottom left corner → panel too
 - **⌃⇧H** → switch display mode (discreet / clearly visible)
 - **Quit:** settings → at the very bottom “Beenden” (or menu bar icon → “Eckblick beenden”)
@@ -45,6 +47,12 @@ The app itself is in German. For **English answers**: settings → **“Antworts
 - **Clearly visible mode** → fits the program you’re in: a ready-to-send reply in Mail, short chat lines in Slack/Teams/WhatsApp, full sentences in Word/Pages, slide bullets in PowerPoint/Keynote, just the value in Excel, just code in code editors. Details in the PDF “Installation”, section 3.
 
 ⌃ is the **Control key** at the bottom left, not ⌘. ⌘C and ⌘V keep working as usual.
+
+**Updates:** Eckblick checks for new versions by itself and shows “Neue Version verfügbar” in the settings. One click on “Jetzt aktualisieren” installs it.
+
+## Windows (beta)
+
+Unzip **Eckblick-Windows.zip**, double-click **Eckblick.exe** → “Windows protected your PC” → **More info** → **Run anyway** → “Installieren?” → yes. Enter your API key. Shortcuts on Windows: **Ctrl+Alt+C** ask, **Ctrl+Alt+V** paste, **Ctrl+Alt+X** panel, **Ctrl+Alt+R** rewrite (Ctrl+C/V stay normal). Not tested on real Windows PCs yet, feedback welcome.
 
 **Uninstall completely:** settings → at the very bottom “Entfernen …” → confirm. Removes the app, settings, API key, knowledge base, auto-start and permissions. Manual steps in the PDF “Installation”, section 5.
 
