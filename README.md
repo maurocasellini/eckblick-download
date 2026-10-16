@@ -40,6 +40,10 @@ The app itself is in German. For **English answers**: settings → **“Antworts
 - **⌃⇧H** → switch display mode (discreet / clearly visible)
 - **Quit:** settings → at the very bottom “Beenden” (or menu bar icon → “Eckblick beenden”)
 
+**Two answer styles:**
+- **Discreet mode** → exam style: compact, professional, structured. Same everywhere.
+- **Clearly visible mode** → fits the program you’re in: a ready-to-send reply in Mail, short chat lines in Slack/Teams/WhatsApp, full sentences in Word/Pages, slide bullets in PowerPoint/Keynote, just the value in Excel, just code in code editors. Details in the PDF “Installation”, section 3.
+
 ⌃ is the **Control key** at the bottom left, not ⌘. ⌘C and ⌘V keep working as usual.
 
 **Uninstall completely:** settings → at the very bottom “Entfernen …” → confirm. Removes the app, settings, API key, knowledge base, auto-start and permissions. Manual steps in the PDF “Installation”, section 5.
