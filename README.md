@@ -52,7 +52,7 @@ The app itself is in German. For **English answers**: settings → **“Antworts
 
 ## Windows (beta)
 
-Unzip **Eckblick-Windows.zip**, double-click **Eckblick.exe** → “Windows protected your PC” → **More info** → **Run anyway** → “Installieren?” → yes. Enter your API key. Shortcuts on Windows: **Ctrl+Alt+C** ask, **Ctrl+Alt+V** paste, **Ctrl+Alt+X** panel, **Ctrl+Alt+R** rewrite (Ctrl+C/V stay normal). Not tested on real Windows PCs yet, feedback welcome.
+Unzip **Eckblick-Windows.zip**, double-click **Eckblick.exe** → “Windows protected your PC” → **More info** → **Run anyway** → “Installieren?” → yes. Enter your API key. Shortcuts on Windows: **Ctrl+Alt+C** ask, **Ctrl+Alt+V** paste, **Ctrl+Alt+X** panel, **Ctrl+Alt+R** rewrite (Ctrl+C/V stay normal). Same features as on the Mac, including answers that fit the program and text recognition for scanned PDFs. Not yet tested on real Windows PCs, feedback welcome.
 
 **Uninstall completely:** settings → at the very bottom “Entfernen …” → confirm. Removes the app, settings, API key, knowledge base, auto-start and permissions. Manual steps in the PDF “Installation”, section 5.
 
