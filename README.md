@@ -14,7 +14,12 @@ Claude right where you work: select text, press **⌃C**, and paste the short an
 
 Which Mac? Apple menu  → “About This Mac” → line “Chip” (Apple M… = Apple chip, Intel = Intel).
 
-## First: get an API key (once)
+## Two ways to use it
+
+- **With your Claude subscription (no API key):** in the settings choose “Wohin gehen deine Fragen?” → “In Claude öffnen”. ⌃C then opens a new chat in the Claude app or on claude.ai with your question and sends it. No token costs.
+- **With an API key (answers right where you are):** the answer appears discreetly and ⌃V pastes it at the cursor. A few cents per question. Setup below.
+
+## First: get an API key (once) (only for the API way)
 
 1. Open [platform.claude.com/settings/keys](https://platform.claude.com/settings/keys?ws=default) and sign in.
 2. Add a small credit under “Billing” (e.g. 5 to 10 €).
