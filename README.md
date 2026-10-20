@@ -16,10 +16,10 @@ Which Mac? Apple menu  → “About This Mac” → line “Chip” (Apple M… 
 
 ## Two ways to use it
 
-- **With your Claude subscription (no API key):** in the settings choose “Wohin gehen deine Fragen?” → “In Claude öffnen”. ⌃C (or ⌃S for a screen area) then opens a new chat in the Claude app or on claude.ai with the selected text. No token costs.
+- **With your Claude or ChatGPT account (no API key):** in the settings choose “Wohin gehen deine Fragen?” → “In Claude öffnen” or “In ChatGPT öffnen”. ⌃C (or ⌃S for a screen area) then opens a new chat in the Claude app, on claude.ai or on chatgpt.com with the selected text. No token costs.
 - **With an API key (answers right where you are):** the answer appears discreetly and ⌃V pastes it at the cursor. A few cents per question. Setup below.
 
-**Answer directly or add your own input:** settings → “Nach ⌃C bzw. ⌃S”. “Direkt antworten” answers right away. “Frage/Input ergänzen” only takes over the text or screenshot and you type your question or instruction (in the panel, or below “Frage/Input dazu:” in the new Claude chat).
+**Answer directly or add your own input:** settings → “Nach ⌃C bzw. ⌃S”. “Direkt antworten” answers right away. “Frage/Input ergänzen” only takes over the text or screenshot and you type your question or instruction (in the panel, or below “Frage/Input dazu:” in the new chat).
 
 ## First: get an API key (once) (only for the API way)
 
